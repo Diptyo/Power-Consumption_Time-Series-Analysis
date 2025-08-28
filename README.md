@@ -31,5 +31,5 @@ Business Impact:
 ## ✅ Deliverables
 1. Time Series Forecasting model in Jupyter Notebook.
 2. Cleaned and processed dataset (daily level).
-3. Tableau Public dashboard link.
+3. Power BI dashboard link.
 4. Final Summary Report with business recommendations.
