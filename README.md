@@ -24,7 +24,7 @@ Business Impact:
 - Optimize electricity supply.
 - Reduce cost of excess power generation.
 - Support renewable integration (solar/wind) through forecasting.
-- Create an executive dashboard in Tableau Public.
+- Create an executive dashboard in Power BI.
 
 ---
 
